@@ -1,0 +1,9 @@
+.Options__container {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 85px;
+  padding: 5px 10px;
+  background-color: #bbbbbb;
+  border-radius: 5px;
+}
